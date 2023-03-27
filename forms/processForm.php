@@ -1,5 +1,5 @@
 <?php
-$recipient = "example@example.com"; // email address where the form data will be sent
+$recipient = "tshiamomalebye3310@gmail.com"; // email address where the form data will be sent
 $name = $_POST['name']; // retrieve the user's name from the form data
 $email = $_POST['email']; // retrieve the user's email from the form data
 
